@@ -1,0 +1,120 @@
+{
+  "errors": {},
+  "id": 120140,
+  "source_name": "WHO Coronavirus (COVID-19) Dashboard 2021",
+  "source_code": "DOH",
+  "code": "CVD",
+  "name": "WHO Coronavirus (COVID-19) Dashboard",
+  "urlize_name": "WHO Coronavirus (COVID-19) Dashboard 2021",
+  "display_url": "https://covid19.who.int/table",
+  "description": "Covid-19 Situation - Cummulative Total Cases -  By Region, Country Area  (WHO Coronavirus (COVID-19) Dashboard) - (https://covid19.who.int/table)",
+  "updated_at": "2021-10-06T20:00:28.561Z",
+  "frequency": "daily",
+  "from_date": "2020-01-01",
+  "to_date": "2021-10-06",
+  "column_names": [
+    "DATE",
+    "VALUE"
+  ],
+  "private": false,
+  "type": null,
+  "premium": false,
+  "data": [
+    [
+      "Africa",
+      6,056,076
+    ],
+    [
+      "Western Pacific",
+      8,680,923
+    ],
+    [
+      "Eastern Mediterranean",
+      15,871,955
+    ],
+    [
+      "South-East Asia",
+      43,189,962
+    ],
+    [
+      "Europe",
+      70,896,282
+    ],
+    [
+      "Americas",
+      90,479,144
+    ],
+    [
+      "United States Of America",
+      43,401,318
+    ],
+    [
+      "India",
+      33,853,048
+    ],
+    [
+      "2Brazil",
+      21,468,121
+    ],
+    [
+      "The United  Kingdom",
+      7,934,940
+    ],
+    [
+      "Rusian Federation",
+      7,637,427
+    ],
+    [
+      "Turkey",
+      7267,077
+    ],
+    [
+      "France",
+      6,812,172
+    ],
+    [
+      "Iran (Islamic Republic)",
+      5,638,735
+    ],
+    [
+      "Argentina",
+      5,259,738
+    ],
+    [
+      "Spain",
+      4,9665,400
+    ],
+    [
+      "Colombia",
+      4,962,054
+    ],
+    [
+      "Italy",
+      4,683,646
+    ],
+    [
+      "Germany",
+      4,260,187
+    ],
+    [
+      "Indonesia",
+      4,221,610
+    ],
+    [
+      "Mexico",
+      3,681,960
+    ],
+    [
+      "Poland",
+      2,912,876
+    ],
+    [
+      "South Africa",
+      2,906,851
+    ],
+    [
+      "Phillipines",
+      2,604,040
+    ]
+  ]
+}
